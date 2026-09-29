@@ -1,0 +1,8 @@
+kierowca: 2
+kierownica: 2
+kierownik: 1
+koło: 2
+motorower: 1
+rower: 2
+samochód: 2
+szprycha: 1

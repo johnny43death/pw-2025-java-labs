@@ -1,0 +1,4 @@
+rower koło szprycha
+motorower rower samochód
+samochód koło kierownica kierowca
+kierowca kierownica kierownik
